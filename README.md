@@ -1,6 +1,6 @@
 # DeepFin: Advanced Trading Strategy Analyzer
 
-DeepFin is a sophisticated trading strategy analyzer that combines quantitative analysis, sentiment analysis, and market data to generate trading signals and recommendations. The system integrates VIX data and options trading capabilities to provide comprehensive market analysis and trading opportunities.
+DeepFin is a sophisticated trading strategy analyzer that combines quantitative analysis, sentiment analysis, and market data to generate trading signals and recommendations. The system integrates VIX data and options trading capabilities to recommend an options trade for SPY within a month into the future.
 
 ## Features
 
